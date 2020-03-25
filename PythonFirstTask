@@ -1,0 +1,8 @@
+#Area of a Circle
+#Area=pi*r**2
+#Let Area be A
+from math import pi
+print("WELCOME TO THE BASIC CALCULATOR FOR AREA OF A CIRCLE\n")
+r=int(input("Enter any value for the radius of a Circle:\n"))
+A=pi*r**2
+print("The Answer to the Area of a Circle with Radius", r ,"is", int(A), 'm**2')
