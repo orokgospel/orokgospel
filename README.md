@@ -5,15 +5,15 @@ I am a Data Engineer with hands-on experience in building and maintaining enterp
 
 Currently focused on scalable data platforms, streaming systems, and modern data stack technologies, with a strong goal of working on global, high-impact data systems.
 
-#🚀 What I Do
-*🔄 Design and maintain ETL/ELT pipelines for large-scale financial data
-*⚙️ Build data warehouse solutions (PostgreSQL, SQL Server)
-*📊 Ensure data quality, validation, and consistency
-*🔍 Optimize complex SQL queries and database performance
-*🧱 Develop data engineering tools (GUI apps, automation scripts)
-*🌊 Work on real-time data streaming architectures
+# 🚀 What I Do
+- 🔄 Design and maintain ETL/ELT pipelines for large-scale financial data
+- ⚙️ Build data warehouse solutions (PostgreSQL, SQL Server)
+- 📊 Ensure data quality, validation, and consistency
+- 🔍 Optimize complex SQL queries and database performance
+- 🧱 Develop data engineering tools (GUI apps, automation scripts)
+- 🌊 Work on real-time data streaming architectures
 
-#🏗️ Current Focus
+# 🏗️ Current Focus
 Building end-to-end data engineering architecture using:
 *Kafka (Streaming)
 *Spark (Processing)
@@ -23,26 +23,29 @@ Trino/Presto (Query Engine)
 Developing a no-code / low-code ETL tool
 Designing automated data quality & anomaly detection frameworks
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 💻 Languages
 Python
-SQL
-🗄️ Databases
+SQL 
+
+# 🗄️ Databases
 PostgreSQL
 Microsoft SQL Server
-⚙️ Data Engineering Tools
+
+# ⚙️ Data Engineering Tools
 Apache Airflow
 Apache Kafka
 Apache Spark
 Apache Flink (PyFlink)
 Apache Iceberg
 Trino / Presto
-🧰 Others
+# 🧰 Others
 Docker
 Git
 Linux (Ubuntu Server)
 Azure Data Factory
-📂 Featured Projects
+
+# 📂 Featured Projects
 🔹 Enterprise Data Warehouse Migration
 Migrated legacy banking data warehouse to PostgreSQL
 Ensured zero data loss and pipeline stability
@@ -65,13 +68,14 @@ Includes:
 Fault tolerance
 Retry mechanisms
 Logging & monitoring
-📊 Achievements
+
+# 📊 Achievements
 ✅ Successfully supported critical banking data migration
 ✅ Maintained high availability of production pipelines
 ✅ Led initiatives for data documentation & standardization
 ✅ Built internal tools improving team productivity
 🎯 Career Goals
-🌍 Work remotely on global data platforms
+# 🌍 Work remotely on global data platforms
 💰 Earn in foreign currency while delivering high-impact solutions
 🧠 Master advanced data engineering & distributed systems
 🚀 Contribute to open-source data tools
