@@ -85,9 +85,10 @@ Advanced Spark optimization
 Data Lakehouse architecture
 Streaming best practices
 System design for large-scale data platforms
-🤝 Let's Connect:
- 💼 LinkedIn: https://www.linkedin.com/in/orokgospel/
- Articles: https://orokgospel.medium.com/
+
+# 🤝 Let's Connect:
+> 💼 LinkedIn: https://www.linkedin.com/in/orokgospel/
+> Articles: https://orokgospel.medium.com/
 
 # ⚡ Fun Fact
 
