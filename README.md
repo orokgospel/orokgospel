@@ -50,18 +50,18 @@ Microsoft SQL Server
 Migrated legacy banking data warehouse to PostgreSQL
 Ensured zero data loss and pipeline stability
 Optimized data models and query performance
-- 🔹 Sterling DWH DB Exporter (Python GUI Tool)
+ 🔹 Sterling DWH DB Exporter (Python GUI Tool)
 Built a Tkinter-based application
 Extracts large datasets from PostgreSQL
 Supports:
 Excel / CSV / TXT export
 Chunking for millions of records
 Designed for non-technical users
-- 🔹 Automated ETL Pipeline with Airflow
+ 🔹 Automated ETL Pipeline with Airflow
 Scheduled ingestion of CSV data from cloud storage
 Automated transformation and loading into PostgreSQL
 Integrated daily scheduling and monitoring
-- 🔹 Real-Time Data Streaming Architecture (In Progress)
+ 🔹 Real-Time Data Streaming Architecture (In Progress)
 Kafka → Spark → HDFS → Iceberg → Trino
 Handles millions of daily banking transactions
 Includes:
@@ -69,7 +69,7 @@ Includes:
 - Retry mechanisms
 - Logging & monitoring
 
-# 📊 Achievements
+# 📊 Achievements:
 ✅ Successfully supported critical banking data migration
 ✅ Maintained high availability of production pipelines
 ✅ Led initiatives for data documentation & standardization
