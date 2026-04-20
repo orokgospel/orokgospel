@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Gospel Orok
-#💡 Data Engineer | AI & Data Enthusiast | Building Scalable Data Systems
+# 💡 Data Engineer | AI & Data Enthusiast | Building Scalable Data Systems
 
 I am a Data Engineer with hands-on experience in building and maintaining enterprise-grade data pipelines within the banking sector. I specialize in designing robust ETL workflows, data warehouse systems, and real-time data architectures.
 
@@ -33,41 +33,41 @@ PostgreSQL
 Microsoft SQL Server
 
 # ⚙️ Data Engineering Tools
-Apache Airflow
-Apache Kafka
-Apache Spark
-Apache Flink (PyFlink)
-Apache Iceberg
-Trino / Presto
+- Apache Airflow
+- Apache Kafka
+- Apache Spark
+- Apache Flink (PyFlink)
+- Apache Iceberg
+- Trino / Presto
 # 🧰 Others
-Docker
-Git
-Linux (Ubuntu Server)
-Azure Data Factory
+- Docker
+- Git
+- Linux (Ubuntu Server)
+- Azure Data Factory
 
 # 📂 Featured Projects
-🔹 Enterprise Data Warehouse Migration
+- 🔹 Enterprise Data Warehouse Migration
 Migrated legacy banking data warehouse to PostgreSQL
 Ensured zero data loss and pipeline stability
 Optimized data models and query performance
-🔹 Sterling DWH DB Exporter (Python GUI Tool)
+- 🔹 Sterling DWH DB Exporter (Python GUI Tool)
 Built a Tkinter-based application
 Extracts large datasets from PostgreSQL
 Supports:
 Excel / CSV / TXT export
 Chunking for millions of records
 Designed for non-technical users
-🔹 Automated ETL Pipeline with Airflow
+- 🔹 Automated ETL Pipeline with Airflow
 Scheduled ingestion of CSV data from cloud storage
 Automated transformation and loading into PostgreSQL
 Integrated daily scheduling and monitoring
-🔹 Real-Time Data Streaming Architecture (In Progress)
+- 🔹 Real-Time Data Streaming Architecture (In Progress)
 Kafka → Spark → HDFS → Iceberg → Trino
 Handles millions of daily banking transactions
 Includes:
-Fault tolerance
-Retry mechanisms
-Logging & monitoring
+- Fault tolerance
+- Retry mechanisms
+- Logging & monitoring
 
 # 📊 Achievements
 ✅ Successfully supported critical banking data migration
@@ -85,9 +85,10 @@ Data Lakehouse architecture
 Streaming best practices
 System design for large-scale data platforms
 🤝 Let's Connect
-💼 LinkedIn: (Add your link)
-📧 Email: (Add your email)
-⚡ Fun Fact
+💼 LinkedIn: https://www.linkedin.com/in/orokgospel/
+Articles: https://orokgospel.medium.com/
+
+# ⚡ Fun Fact
 
 I enjoy building real-world data systems from scratch, especially ones that solve practical business problems in finance and technology.
 
