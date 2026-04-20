@@ -38,6 +38,8 @@ Designing automated data quality & anomaly detection frameworks
 
 # ⚙️ Data Engineering Tools
 - Apache Airflow
+- Azure Data Factory
+- Azure Purview
 - Apache Kafka
 - Apache Spark
 - Apache Flink (PyFlink)
