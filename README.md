@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Gospel Orok
-# 💡 Data Engineer | AI & Data Enthusiast | Building Scalable Data Systems
+# Data Engineer | AI & Data Enthusiast | Building Scalable Data Systems
 
 I am a Data Engineer with hands-on experience in building and maintaining enterprise-grade data pipelines within the banking sector. I specialize in designing robust ETL workflows, data warehouse systems, and real-time data architectures.
 
