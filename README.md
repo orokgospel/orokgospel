@@ -25,12 +25,16 @@ Designing automated data quality & anomaly detection frameworks
 
 # 🛠️ Tech Stack
 💻 Languages
-Python
-SQL 
+- Python
+- SQL
 
 # 🗄️ Databases
-PostgreSQL
-Microsoft SQL Server
+- PostgreSQL
+- Microsoft SQL Server
+- Oracle
+- QuestDB
+- Clickhouse
+
 
 # ⚙️ Data Engineering Tools
 - Apache Airflow
