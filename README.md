@@ -88,7 +88,7 @@ System design for large-scale data platforms
 
 # 🤝 Let's Connect:
 > 💼 LinkedIn: https://www.linkedin.com/in/orokgospel/
-> Articles: https://orokgospel.medium.com/
+-  Articles: https://orokgospel.medium.com/
 
 # ⚡ Fun Fact
 
